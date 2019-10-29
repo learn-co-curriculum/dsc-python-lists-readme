@@ -1,7 +1,7 @@
 
 # Introduction to lists
 
-So far, we have worked with individual pieces of data like the string `'hello'`. Then with variables we saw how to give this data a name.  Now in this lesson, we'll see how we can group data together with lists.  
+So far, we have worked with individual pieces of data like the string `'hello'`. Then with variables we saw how to give this data a name.  Now in this lesson, we'll see how we can group data together with lists. You may recall briefly touching upon lists before, as we used them when analyzing The Beach Boy's "Barbara Ann", but you'll learn about the true value of lists in this lesson!
 
 ### Creating a list 
 
@@ -563,7 +563,7 @@ unique_travel_cities
 
 
 
-The set function initializes a new set in Python.  A set is a different type collection in Python.  
+The set function initializes a new set in Python.  A set is a different type collection in Python, which you may recall from the "Barbara Ann"-lesson as well.
 
 
 ```python
